@@ -18,9 +18,12 @@ Problem Solving: I enjoy tackling complex problems and finding creative solution
 
 👯 Looking to collaborate on:
 
-Game development projects, especially those involving innovative gameplay mechanics or storytelling. Open-source game development projects to contribute and learn from the community. Open to work on free projects on 2D and 3D games. To Connect
+Game development projects, especially those involving innovative gameplay mechanics or storytelling. Open-source game development projects to contribute and learn from the community. Open to work on free projects on 2D and 3D games.
+To Connect
 Email - choudharyaruna11@gmail.com 
+
 LinkedIn - https://www.linkedin.com/in/aruna-choudhary-a49a11322/
+
 Whatsapp - 6376983300
 
 Projects -
