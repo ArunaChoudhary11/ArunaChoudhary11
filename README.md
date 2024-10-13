@@ -19,7 +19,8 @@ Problem Solving: I enjoy tackling complex problems and finding creative solution
 👯 Looking to collaborate on:
 
 Game development projects, especially those involving innovative gameplay mechanics or storytelling. Open-source game development projects to contribute and learn from the community. Open to work on free projects on 2D and 3D games.
-To Connect
+To Connect -
+
 Email - choudharyaruna11@gmail.com 
 
 LinkedIn - https://www.linkedin.com/in/aruna-choudhary-a49a11322/
@@ -27,10 +28,15 @@ LinkedIn - https://www.linkedin.com/in/aruna-choudhary-a49a11322/
 Whatsapp - 6376983300
 
 Projects -
+
  Flight Arc - https://github.com/ArunaChoudhary11/Flight-Arc
+ 
  Bike Drive - https://github.com/ArunaChoudhary11/BikeDrive
+ 
  Gleam - https://github.com/ArunaChoudhary11/Gleam
+ 
  Zombie Shooter - https://github.com/ArunaChoudhary11/Zombie-Shooter
+ 
 
  Game Engines: Unity & Unreal Engine. Programming Languages: C#.
 
